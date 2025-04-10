@@ -16,6 +16,10 @@ body {
     width: 90%;
     max-width: 500px;
   }
+
+  .controls-container {
+    margin-top: 20px;
+  }
   
   h1 {
     text-align: center;
@@ -46,10 +50,15 @@ body {
   }
   
   .next-btn {
-    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
     display: none;
+  }
+
+  .hide-btn {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .correct {
